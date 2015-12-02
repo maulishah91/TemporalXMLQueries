@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Query7.xsl"?>
+<result>
+  <sal tstart="1985-02-24" tend="1985-05-17">40000</sal>
+  <sal tstart="1985-05-17" tend="1986-02-26">66280</sal>
+  <sal tstart="1986-02-26" tend="1986-05-17">69736</sal>
+  <sal tstart="1986-05-17" tend="1987-02-26">70375</sal>
+  <sal tstart="1987-02-26" tend="1987-03-23">72147</sal>
+  <sal tstart="1987-03-23" tend="1987-11-16">73259</sal>
+  <sal tstart="1987-11-16" tend="1988-02-26">74014</sal>
+  <sal tstart="1988-02-26" tend="1988-05-16">76616</sal>
+  <sal tstart="1988-05-16" tend="1989-02-25">76648</sal>
+  <sal tstart="1989-02-25" tend="1989-11-15">78885</sal>
+  <sal tstart="1989-11-15" tend="1990-02-25">79310</sal>
+  <sal tstart="1990-02-25" tend="1991-02-19">82819</sal>
+  <sal tstart="1991-02-19" tend="1991-02-25">82555</sal>
+  <sal tstart="1991-02-25" tend="1992-02-19">84064</sal>
+  <sal tstart="1992-02-19" tend="1992-02-25">83977</sal>
+  <sal tstart="1992-02-25" tend="1992-05-15">84161</sal>
+  <sal tstart="1992-05-15" tend="1993-05-02">86445</sal>
+  <sal tstart="1993-05-02" tend="1993-05-15">84368</sal>
+  <sal tstart="1993-05-15" tend="1994-05-02">90341</sal>
+  <sal tstart="1994-05-02" tend="1994-05-15">88392</sal>
+  <sal tstart="1994-05-15" tend="1995-05-02">89891</sal>
+  <sal tstart="1995-05-02" tend="1995-05-15">88808</sal>
+  <sal tstart="1995-05-15" tend="1996-05-01">94064</sal>
+  <sal tstart="1996-05-01" tend="1996-05-14">92405</sal>
+  <sal tstart="1996-05-14" tend="1997-05-02">97898</sal>
+  <sal tstart="1997-05-02" tend="1997-05-14">96451</sal>
+  <sal tstart="1997-05-14" tend="1998-05-02">100587</sal>
+  <sal tstart="1998-05-02" tend="1998-05-14">98656</sal>
+  <sal tstart="1998-05-14" tend="1999-05-13">102901</sal>
+  <sal tstart="1999-05-13" tend="1999-05-14">99199</sal>
+  <sal tstart="1999-05-14" tend="2000-05-12">105128</sal>
+  <sal tstart="2000-05-12" tend="2000-05-13">102425</sal>
+  <sal tstart="2000-05-13" tend="2001-05-12">105845</sal>
+  <sal tstart="2001-05-12" tend="2001-05-13">102674</sal>
+  <sal tstart="2001-05-13" tend="2002-05-12">106912</sal>
+  <sal tstart="2002-05-12" tend="2002-05-13">103672</sal>
+  <sal tstart="2002-05-13" tend="2002-07-29">110212</sal>
+  <sal tstart="" tend=""/>
+</result>
